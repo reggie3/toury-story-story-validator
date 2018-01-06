@@ -1,0 +1,25 @@
+{
+  "name": "toury-story-story-validator",
+  "version": "0.0.4",
+  "description": "validator for toury-story stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggie3/toury-story-story-validator.git"
+  },
+  "keywords": [
+    "toury-story"
+  ],
+  "author": "Reginald Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggie3/toury-story-story-validator/issues"
+  },
+  "homepage": "https://github.com/reggie3/toury-story-story-validator#readme",
+  "dependencies": {
+    "lodash.has": "^4.5.2"
+  }
+}
